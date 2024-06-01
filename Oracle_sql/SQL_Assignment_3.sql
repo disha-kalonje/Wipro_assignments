@@ -1,4 +1,4 @@
--- Assignment : Write SQL statements to CREATE a new database and tables that reflect the library schema you designed earlier. Use ALTER statements to modify the table structures and DROP statements to remove a redundant table.
+-- Assignment : Design a database schema for a library system, including tables, fields, and constraints like NOT NULL, UNIQUE, and CHECK. Include primary and foreign keys to establish relationships between tables.
 
 -- Create the Database 
 CREATE DATABASE library_db
